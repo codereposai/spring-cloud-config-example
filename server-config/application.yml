@@ -3,3 +3,4 @@
 info:
   foo: test
   someList: test2
+  testList: [2,4,7]
