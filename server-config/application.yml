@@ -4,3 +4,7 @@ info:
   foo: test
   someList: test2
   testList: [2,4,7]
+  prop1: prop1
+  prop2: prop2
+  prop3: prop3
+  prop4: prop4
